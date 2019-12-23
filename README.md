@@ -1,6 +1,6 @@
 # FitLit
 ## Created by Elyse Myers & Michael Schneider
-### View the live on Heroku!
+### View the live site on Heroku!
 ### https://fitlittracker.herokuapp.com/
 
 ## Summary
