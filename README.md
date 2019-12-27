@@ -1,6 +1,6 @@
 # FitLit
 ## Created by Elyse Myers & Michael Schneider
-### View the live site on Heroku!
+### View the live site!
 ### https://ec-myers.github.io/fitlit/src/index.html
 
 ## Summary
